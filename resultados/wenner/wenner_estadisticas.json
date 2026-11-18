@@ -1,0 +1,9 @@
+{
+  "R_ohm": {
+    "n": 2,
+    "media": 83.75,
+    "s_muestral": 0.07071067811865074,
+    "cv_descriptivo_pct": 0.08443066044018
+  },
+  "cautela": "Las dos lecturas usan separaciones a diferentes; no constituyen un ensayo de repetibilidad."
+}
