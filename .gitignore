@@ -1,0 +1,22 @@
+# Entornos virtuales y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Archivos temporales del IDE y del sistema
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
+*.temp
+Thumbs.db
+Desktop.ini
+
+# Secretos y configuración local
+.env
+.env.*
+!.env.example
+
